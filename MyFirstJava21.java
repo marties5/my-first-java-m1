@@ -21,7 +21,7 @@ public class MyFirstJava21 {
                 PersonalBiodataName(Name);
             }
         } else {
-            System.out.println("Error:This code has Zhidan Marties Alfareza SIB 1-E");
+            System.out.println("Error:This code has Zhidan Marties Alfareza SIB 1-E Polinema");
         }
     }
 }
