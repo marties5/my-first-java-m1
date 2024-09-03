@@ -24,7 +24,7 @@ public class MyFirstJava21 {
             }
 
         } else {
-            System.out.println("Error:This code has Zhidan Marties Alfareza SIB 1-E Polinemb");
+            System.out.println("Error:This code has Zhidan Marties Alfareza SIB 1-E Polinema");
         }
     }
 }
