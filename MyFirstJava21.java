@@ -17,9 +17,12 @@ public class MyFirstJava21 {
         String[] Names = { "Zhidan", "Alfareza", "Marties" };
         String myLocalIp = LocalIP.localIp(argrs);
         if (myLocalIp.equals("192.168.65.198")) {
-            for (String Name : Names) {
+
+            for (int i = 0; i < Names.length; i++) {
+                String Name = Names[i];
                 PersonalBiodataName(Name);
             }
+
         } else {
             System.out.println("Error:This code has Zhidan Marties Alfareza SIB 1-E Polinemb");
         }
